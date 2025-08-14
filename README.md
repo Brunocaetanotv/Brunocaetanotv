@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Bruno Caetano
+# 👋 Hi, I’m Bruno
 
 ## About Me
 I’m a **Software Developer** with experience in **Back-End development**, **DevOps**, and **automated testing**. I’m driven by challenges and passionate about high-impact, innovative projects where I can apply and continuously improve my technical skills.
@@ -34,7 +34,4 @@ I’m currently seeking a meaningful opportunity as a **Software Developer** in 
 
 ## 📫 Get in Touch
 - **LinkedIn:** [linkedin.com/in/bruno-caetano-b4155a165](https://www.linkedin.com/in/bruno-caetano-b4155a165/)  
-- **GitHub:** [github.com/your-github-username](https://github.com/your-github-username)  
-- **Email:** your-email@example.com  
-
 ---
