@@ -12,19 +12,22 @@ I’m currently seeking a meaningful opportunity as a **Software Developer** in 
 ---
 
 ## 🛠️ Skills & Technologies
-- **Programming & Development:** Python, JavaScript, React Native  
-- **Cloud & DevOps:** AWS, GCP, Docker, Kubernetes  
-- **Testing & Automation:** Unit testing, Automated testing, CI/CD pipelines  
-- **OS & Tools:** Linux, Git, GitHub  
-
----
-
-## 📈 GitHub Stats
-<div>
-  <a href="https://github.com/your-github-username">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=dark" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=dark" />
-  </a>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react native logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="linux logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="docker logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="50" alt="kubernetes logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="50" alt="gcp logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="50" alt="aws logo" />
 </div>
 
 ---
@@ -35,5 +38,3 @@ I’m currently seeking a meaningful opportunity as a **Software Developer** in 
 - **Email:** your-email@example.com  
 
 ---
-
-
