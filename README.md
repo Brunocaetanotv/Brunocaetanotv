@@ -1,54 +1,39 @@
-# Olá, pessoal! 👋
+# 👋 Hi, I’m Bruno Caetano
 
-Bem-vindos ao meu repositório eu me chamo **Jorge M. Carvalho**!
+## About Me
+I’m a **Software Developer** with experience in **Back-End development**, **DevOps**, and **automated testing**. I’m driven by challenges and passionate about high-impact, innovative projects where I can apply and continuously improve my technical skills.
 
+Currently, I work as a freelancer, developing **mobile applications** with **React Native** and designing **scalable, robust APIs** to connect web and mobile platforms. I focus heavily on **unit testing** and **automation** to ensure quality, stability, and maintainability in every project.
 
-## Sobre Mim
-Sou estudante de programação e tecnologia. Neste repositório, você encontrará alguns dos meus estudos e experimentos em programação, que refletem meu aprendizado e crescimento na área.
+My curiosity for technology started early—fascinated by how computers work, I naturally transitioned into programming. Over the years, this passion has evolved into a professional pursuit, constantly pushing me to learn, adapt, and tackle new challenges.
 
-###
+I’m currently seeking a meaningful opportunity as a **Software Developer** in a team that values **innovation**, **continuous learning**, and **technical excellence**.
 
+---
 
+## 🛠️ Skills & Technologies
+- **Programming & Development:** Python, JavaScript, React Native  
+- **Cloud & DevOps:** AWS, GCP, Docker, Kubernetes  
+- **Testing & Automation:** Unit testing, Automated testing, CI/CD pipelines  
+- **OS & Tools:** Linux, Git, GitHub  
 
-### Tecnologias
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="55" alt="python logo"  />
-  <img width="12" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="55" height="40"/> 
-   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="55" height="55"/> 
-  <img width="12" />                                                                                                
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" height="40"/> 
-    <img width="12" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="55" alt="html5 logo"  />
-    <img width="12" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="55" alt="css3 logo"  />
-   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="55" alt="javascript logo"  />
- 
-</div>
+## 📈 GitHub Stats
 <div>
-  <a href="https://github.com/Jorge-Carvallho">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jorge-Carvallho&layout=compact&theme=radical"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jorge-Carvallho&show_icons=true&theme=radical"/>
+  <a href="https://github.com/your-github-username">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=dark" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=dark" />
   </a>
 </div>
 
-###
-### Contatos:
-<div align="left">
-  <!-- Badge do WhatsApp -->
-  <a href="https://wa.me/5571991432033" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="35" alt="whatsapp logo" />
-  </a>
+---
 
-  <!-- Badge do LinkedIn -->
-  <a href="https://www.linkedin.com/in/jorge-carvallho/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-  </a>
-</div>
+## 📫 Get in Touch
+- **LinkedIn:** [linkedin.com/in/bruno-caetano-b4155a165](https://www.linkedin.com/in/bruno-caetano-b4155a165/)  
+- **GitHub:** [github.com/your-github-username](https://github.com/your-github-username)  
+- **Email:** your-email@example.com  
 
+---
 
-</div> 
 
